@@ -1,0 +1,8 @@
+{
+  "env": {
+    "remoteDb": true,
+    "dbHost": "@ngshop.0h5cq.mongodb.net/ngShop?retryWrites=true&w=majority",
+    "dbUserName": "ngShop",
+    "dbPassword": "ngShop"
+  }
+}
