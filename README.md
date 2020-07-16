@@ -72,6 +72,6 @@ Sample Connection details for remote db instance
 
 ## Demo
 
-[Backend Hoisting](https://ngshop.glitch.me/stores)
-[POSTMAN COLLECTION](https://documenter.getpostman.com/view/11998783/T1DiGg6m)
-[FrontEnd Hoisting](https://samyajithm.github.io/ngCart/shop)
+* [Backend Hoisting](https://ngshop.glitch.me/stores)
+* [POSTMAN COLLECTION](https://documenter.getpostman.com/view/11998783/T1DiGg6m)
+* [FrontEnd Hoisting](https://samyajithm.github.io/ngCart/shop)
